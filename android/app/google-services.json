@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "8726224969",
+    "project_id": "hang-man-9b819",
+    "storage_bucket": "hang-man-9b819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8726224969:android:d99db308b1ff88b9c4df98",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8726224969-7icpgrdaksbtnand3r32bb50oikgmu4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "44ee2c4968a5a37d8ce8cb40d13ff3264c7f1538"
+          }
+        },
+        {
+          "client_id": "8726224969-vsabe65dlh08n8ec02jj6208k6jkjj9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "c8291dac02671bce33953f57aa8614e2cb4ec227"
+          }
+        },
+        {
+          "client_id": "8726224969-s5fk2ll7i77vof73ea3o5em3kfoek1j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADw8a2s_LONS_teXIBAtE27zbX9GOrteg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8726224969-s5fk2ll7i77vof73ea3o5em3kfoek1j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
